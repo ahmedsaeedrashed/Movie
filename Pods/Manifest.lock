@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.9.1)
+  - BTNavigationDropdownMenu (0.5)
+  - CircleProgressView (1.2.0)
+  - Cosmos (20.0.1)
+  - RevealingSplashView (0.6.0)
+  - SDWebImage (5.4.0):
+    - SDWebImage/Core (= 5.4.0)
+  - SDWebImage/Core (5.4.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BTNavigationDropdownMenu
+  - CircleProgressView (~> 1.0)
+  - Cosmos (~> 20.0)
+  - RevealingSplashView (~> 0.6)
+  - SDWebImage (~> 5.0)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BTNavigationDropdownMenu
+    - CircleProgressView
+    - Cosmos
+    - RevealingSplashView
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  BTNavigationDropdownMenu: ba3a26fdb6a56c4721c31df8a0875106c259663a
+  CircleProgressView: 6b5b091d59dc5e5d2fda84e637a40498cdc39937
+  Cosmos: b47fddf2102bb48580cd3025d9ce0a5c658a65da
+  RevealingSplashView: 40c5a770894459736acdc95655eeba0dd30ce91c
+  SDWebImage: 5bf6aec6481ae2a062bdc59f9d6c1d1e552090e0
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: ea7aea6a88c70d7ad54b90eb8cc94a8088c1c2ef
+
+COCOAPODS: 1.8.4
